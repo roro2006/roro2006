@@ -41,4 +41,4 @@ Outside of work, I’m an avid TCG player, especially of *Magic: The Gathering* 
 
 </details>
 
-<p align="center"><em>Strange oil. It keeps finding its way between the pages.</em></p>
+<p align="center"><em>More of that strange oil...</em></p>
