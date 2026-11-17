@@ -2,6 +2,8 @@
 
 # All will be Rohan
 
+<img src="./mirrodin-banner.svg" width="100%" alt="All will be Rohan — capability, reliability, verification">
+
 ### Rohan Reddy · systems, models, agents, and the art of checking
 
 <a href="https://roro2006.github.io/blog/"><strong>Read the blog →</strong></a>
@@ -21,23 +23,18 @@ I build systems around language models and agents, with a particular interest in
 
 My blog, [*All will be Rohan*](https://roro2006.github.io/blog/), is where I work through those questions in public. It is a collection of essays about inference, agentic systems, verification, and the engineering decisions that determine whether a promising idea survives contact with real use.
 
+## Two things I keep returning to
+
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### ⚙ Inference
 
 Serving systems, KV caches, speculative decoding, quantization, and the hardware underneath the abstractions.
 
 </td>
-<td width="33%" valign="top">
-
-### ◈ Agents
-
-Harnesses, loops, context, multi-agent systems, and interfaces that make action safer and more legible.
-
-</td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### ✓ Verification
 
@@ -80,6 +77,6 @@ Outside of work, I’m an avid TCG player, especially of *Magic: The Gathering* 
 
 <hr>
 
-<em>The stack is deep. The mana is questionable. The checks still matter.</em>
+<em>The stack is deep. The oil is stranger. The checks still matter.</em>
 
 </div>

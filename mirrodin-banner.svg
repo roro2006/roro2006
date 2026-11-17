@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">All will be Rohan</title>
+  <desc id="desc">A dark metallic banner with copper circuitry and black oil accents.</desc>
+  <defs>
+    <linearGradient id="steel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080b0e"/>
+      <stop offset="0.48" stop-color="#20292d"/>
+      <stop offset="1" stop-color="#090c0e"/>
+    </linearGradient>
+    <linearGradient id="copper" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8c4d2d"/>
+      <stop offset="0.5" stop-color="#e08b51"/>
+      <stop offset="1" stop-color="#5d2c20"/>
+    </linearGradient>
+    <radialGradient id="oil" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#91b5a1" stop-opacity=".28"/>
+      <stop offset=".45" stop-color="#243e38" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#050707" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#93a49d" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="240" rx="8" fill="url(#steel)"/>
+  <rect width="1200" height="240" rx="8" fill="url(#grid)"/>
+  <ellipse cx="964" cy="110" rx="310" ry="190" fill="url(#oil)"/>
+  <g fill="none" stroke="url(#copper)" stroke-width="2" opacity=".86">
+    <path d="M0 42H190L226 78H350"/>
+    <path d="M0 188H150L182 156H294"/>
+    <path d="M1200 54H1060L1018 96H924"/>
+    <path d="M1200 186H1078L1036 144H910"/>
+  </g>
+  <g fill="#d28a56">
+    <circle cx="190" cy="42" r="4"/><circle cx="150" cy="188" r="4"/>
+    <circle cx="1060" cy="54" r="4"/><circle cx="1078" cy="186" r="4"/>
+  </g>
+  <g transform="translate(965 120)" fill="none" stroke="#a9c1b2" stroke-opacity=".62">
+    <circle r="72" stroke-width="1"/><circle r="52" stroke-width="3"/><circle r="18" stroke-width="1"/>
+    <path d="M-88 0H88M0-88V88M-62-62L62 62M62-62L-62 62" stroke-width="1"/>
+    <path d="M-52-82L-34-52M52-82L34-52M-52 82L-34 52M52 82L34 52" stroke-width="5"/>
+  </g>
+  <text x="72" y="104" fill="#e8ece9" font-family="Georgia,serif" font-size="42" letter-spacing="3">ALL WILL BE ROHAN</text>
+  <text x="76" y="142" fill="#d28a56" font-family="ui-monospace,monospace" font-size="14" letter-spacing="4">CAPABILITY // RELIABILITY // VERIFICATION</text>
+  <rect x="1" y="1" width="1198" height="238" rx="8" fill="none" stroke="#d28a56" stroke-opacity=".35"/>
+</svg>
