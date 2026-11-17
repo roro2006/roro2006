@@ -14,7 +14,7 @@
 
 I build systems around language models and agents. I’m interested in what makes them practical to run and what gives us reason to trust their answers. I write about both in *All will be Rohan*.
 
-## Inference and verification
+## <img src="assets/kiln-attendant.png" width="38" height="38" align="middle" alt=""> Inference and verification
 
 <p align="center">
   <a href="https://roro2006.github.io/blog/posts/the-kv-cache-is-the-product.html"><img src="assets/inference.png" width="46%" alt="Inference. Read about KV caching."></a>
@@ -23,7 +23,7 @@ I build systems around language models and agents. I’m interested in what make
 
 <img src="assets/section-rule.png" width="800" alt="">
 
-## Featured writing
+## <img src="assets/oil-keeper.png" width="38" height="38" align="middle" alt=""> Featured writing
 
 - **[In multi-agent systems, the brief is the unit of engineering](https://roro2006.github.io/blog/posts/elephants-and-goldfish.html)**<br>
   How complete, reviewable briefs give stateless workers enough context to do their jobs.
@@ -41,4 +41,8 @@ Outside of work, I’m an avid TCG player, especially of *Magic: The Gathering* 
 
 </details>
 
-<p align="center"><em>More of that strange oil...</em></p>
+<p align="center">
+  <img src="assets/porcelain-archon.png" width="56" height="56" alt="">
+  <br>
+  <em>More of that strange oil...</em>
+</p>
