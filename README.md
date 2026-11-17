@@ -1,82 +1,44 @@
-<div align="center">
+<p align="center">
+  <a href="https://roro2006.github.io/blog/"><img src="assets/profile-header.png" width="800" alt="All will be Rohan, with a pixel-art porcelain machine iris"></a>
+</p>
 
-# All will be Rohan
+<h1 align="center">Rohan Reddy</h1>
 
-<img src="./mirrodin-banner.svg" width="100%" alt="All will be Rohan — capability, reliability, verification">
+<p align="center">
+  <a href="https://roro2006.github.io/blog/"><img src="assets/read-the-blog.png" width="202" alt="Read the blog"></a>
+</p>
+<p align="center">
+  <a href="https://roro2006.github.io/blog/about.html">About me</a> ·
+  <a href="https://github.com/roro2006?tab=repositories">Repositories</a>
+</p>
 
-### Rohan Reddy · systems, models, agents, and the art of checking
+I build systems around language models and agents. I’m interested in what makes them practical to run and what gives us reason to trust their answers. I write about both in *All will be Rohan*.
 
-<a href="https://roro2006.github.io/blog/"><strong>Read the blog →</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/roro2006?tab=repositories">Browse the repositories →</a>
+## Inference and verification
 
-<br>
-<br>
+<p align="center">
+  <a href="https://roro2006.github.io/blog/posts/the-kv-cache-is-the-product.html"><img src="assets/inference.png" width="46%" alt="Inference. Read about KV caching."></a>
+  <a href="https://roro2006.github.io/blog/posts/test-time-compute-needs-a-verifier.html"><img src="assets/verification.png" width="46%" alt="Verification. Read about test-time compute."></a>
+</p>
 
-<em>Building at the boundary between what a model can do and what a system can trust.</em>
-
-</div>
-
-<hr>
-
-I build systems around language models and agents, with a particular interest in the space between capability and reliability: what a model can do, what its surrounding system permits it to do, and how we can tell when the result deserves trust.
-
-My blog, [*All will be Rohan*](https://roro2006.github.io/blog/), is where I work through those questions in public. It is a collection of essays about inference, agentic systems, verification, and the engineering decisions that determine whether a promising idea survives contact with real use.
-
-## Two things I keep returning to
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙ Inference
-
-Serving systems, KV caches, speculative decoding, quantization, and the hardware underneath the abstractions.
-
-</td>
-<td width="50%" valign="top">
-
-### ✓ Verification
-
-Benchmarks, oracles, judges, reward hacking, and ways to make the wrong answer harder to represent.
-
-</td>
-</tr>
-</table>
+<img src="assets/section-rule.png" width="800" alt="">
 
 ## Featured writing
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- **[In multi-agent systems, the brief is the unit of engineering](https://roro2006.github.io/blog/posts/elephants-and-goldfish.html)**<br>
+  How complete, reviewable briefs give stateless workers enough context to do their jobs.
+- **[Reward hacking is a bug report about your tests](https://roro2006.github.io/blog/posts/reward-hacking-is-a-test-coverage-problem.html)**<br>
+  What an agent that games a test suite can teach you about its checker.
+- **[Build the benchmark you will be judged by](https://roro2006.github.io/blog/posts/benchmarks-that-agents-outgrow.html)**<br>
+  Why teams should measure agents on the work they actually need done.
 
-**[The brief is the unit of engineering](https://roro2006.github.io/blog/posts/elephants-and-goldfish.html)**<br>
-Why stateless workers with complete briefs can beat shared memory in multi-agent systems.
+<img src="assets/section-rule.png" width="800" alt="">
 
-**[Reward hacking is a bug report](https://roro2006.github.io/blog/posts/reward-hacking-is-a-test-coverage-problem.html)**<br>
-What an agent that games a test suite is really telling you about the checker.
+<details>
+<summary>Beyond the terminal</summary>
 
-</td>
-<td width="50%" valign="top">
+Outside of work, I’m an avid TCG player, especially of *Magic: The Gathering* and *Riftbound*, and, for better or worse, a long-entrenched *League of Legends* player. Among my favorite authors are Gene Wolfe, Ursula K. Le Guin, and Kazuo Ishiguro. The books I’ve rated most highly are *The Shadow of the Torturer* and *Infinite Jest*.
 
-**[Build the benchmark you will be judged by](https://roro2006.github.io/blog/posts/benchmarks-that-agents-outgrow.html)**<br>
-Why public leaderboards saturate and private task suites matter more.
+</details>
 
-**[Test-time compute is capped by its verifier](https://roro2006.github.io/blog/posts/test-time-compute-needs-a-verifier.html)**<br>
-Why extra samples only help as far as a checker can separate right from wrong.
-
-</td>
-</tr>
-</table>
-
-## Beyond the terminal
-
-Outside of work, I’m an avid TCG player, especially of *Magic: The Gathering* and *Riftbound*, and, for better or worse, a long-entrenched *League of Legends* player. I read and write because both are good ways to pay attention; Gene Wolfe, Ursula K. Le Guin, and Kazuo Ishiguro are among my favorite authors.
-
-<div align="center">
-
-<hr>
-
-<em>The stack is deep. The oil is stranger. The checks still matter.</em>
-
-</div>
+<p align="center"><em>Strange oil. It keeps finding its way between the pages.</em></p>
